@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+  outline: none;
+  border: none;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
